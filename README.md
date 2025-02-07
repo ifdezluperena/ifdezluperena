@@ -3,7 +3,7 @@
 
 
 # 🌐 Redes Sociales:
-**Si quieres saber mas sobre mi, o incluso concetar para intercambiar ideas ¡No lo dudes!** 👉🏼​   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iván-fernández-luperena-a58712a7) 
+**Si quieres saber mas sobre mi, o incluso concetar para intercambiar ideas ¡No lo dudes!** ​👉🏻​   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iván-fernández-luperena-a58712a7) 
 
 # 👨‍🎓​ Educación
 
