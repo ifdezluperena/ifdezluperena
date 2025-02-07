@@ -13,8 +13,8 @@ Me entusiasma la posibilidad de profundizar en algoritmos, modelos predictivos y
 
 # 👨‍🎓​ Educación
 
-- **Data Science Bootcamp (490h)** - _The Bridge_ (Feb.2024 - Jul.2024)
-- **Master en Desarrollo de Software (1200h)** - _Assembler Institute of Technology_ (Feb.2023 - Nov.2023)
+- **Data Science Bootcamp** - _The Bridge_ (Feb.2024 - Jul.2024)
+- **Master en Desarrollo de Software** - _Assembler Institute of Technology_ (Feb.2023 - Nov.2023)
 - **Grado en Ingeniería de Energías Renovables** - _Universidad del País Vasco_ (2012 - 2017)
 
 
