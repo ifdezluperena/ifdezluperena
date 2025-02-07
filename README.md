@@ -1,9 +1,9 @@
 # 💫 Sobre mi:
 ¡Hola! 👋 Soy Iván
-Data Scientist junior, siempre buscando nuevos desafíos y formas de aprender. Desde que comencé a programar, cada proyecto ha sido una combinación de emoción y reto, y eso es precisamente lo que más disfruto.<br>
-💡 Lo que me motiva:<br>
-Con formación en Ingeniería de Energías Renovables, siempre me ha interesado la optimización de recursos y la búsqueda de soluciones eficientes. Ahora aplico esa misma mentalidad al mundo del Machine Learning, explorando cómo los modelos pueden aprender, predecir y mejorar procesos en diferentes sectores.<br>
-🚀 ¿Qué estoy buscando?<br>
+Data Scientist junior, siempre buscando nuevos desafíos y formas de aprender. Desde que comencé a programar, cada proyecto ha sido una combinación de emoción y reto, y eso es precisamente lo que más disfruto.<br><br>
+💡 Lo que me motiva:<br><br>
+Con formación en Ingeniería de Energías Renovables, siempre me ha interesado la optimización de recursos y la búsqueda de soluciones eficientes. Ahora aplico esa misma mentalidad al mundo del Machine Learning, explorando cómo los modelos pueden aprender, predecir y mejorar procesos en diferentes sectores.<br><br>
+🚀 ¿Qué estoy buscando?<br><br>
 Me entusiasma la posibilidad de profundizar en algoritmos, modelos predictivos y aplicaciones del Machine Learning en el mundo real. Si tienes un desafío interesante o quieres intercambiar ideas, ¡no dudes en escribirme!
 
 
