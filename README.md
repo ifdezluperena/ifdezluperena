@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-   ![Banner](beach_pixel_art.webp)
-
-
 # ​🙋‍♂️​ Sobre mi:
 ¡Hola! 👋 Soy Iván<br>
 Data Scientist junior, siempre buscando nuevos desafíos y formas de aprender. Desde que comencé a programar, cada proyecto ha sido una combinación de emoción y reto, y eso es precisamente lo que más disfruto.<br><br>
