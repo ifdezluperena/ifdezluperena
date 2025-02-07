@@ -1,9 +1,15 @@
 # 💫 Sobre mi:
-¡Hola! 👋 Soy Iván, un Data scientist junior con una insaciable curiosidad por aprender y explorar nuevas tecnologías. Desde que comencé en el mundo del código, cada proyecto se ha convertido en una aventura emocionante y a veces desesperante.<br><br>Disfruto desafiándome a mí mismo y descubriendo nuevas formas de resolver problemas. Ya sea jugando con pequeños scripts o sumergiéndome en proyectos más grandes, siempre estoy buscando aprender algo nuevo.<br><br>Estoy en el inicio de mi viaje en el desarrollo, pero estoy emocionado por ver a dónde me llevará. Si estás interesado en saber más sobre mí o mis proyectos, ¡no dudes en ponerte en contacto! Estoy siempre abierto a nuevas conexiones y oportunidades de aprendizaje. 💻✨
+¡Hola! 👋 Soy Iván
+Data Scientist junior, siempre buscando nuevos desafíos y formas de aprender. Desde que comencé a programar, cada proyecto ha sido una combinación de emoción y reto, y eso es precisamente lo que más disfruto.
+💡 Lo que me motiva:
+Con formación en Ingeniería de Energías Renovables, siempre me ha interesado la optimización de recursos y la búsqueda de soluciones eficientes. Ahora aplico esa misma mentalidad al mundo del Machine Learning, explorando cómo los modelos pueden aprender, predecir y mejorar procesos en diferentes sectores.
+🚀 ¿Qué estoy buscando?
+Me entusiasma la posibilidad de profundizar en algoritmos, modelos predictivos y aplicaciones del Machine Learning en el mundo real. Si tienes un desafío interesante o quieres intercambiar ideas, ¡no dudes en escribirme!
+
 
 
 # 🌐 Redes Sociales:
-**Si quieres saber más sobre mi, o incluso concetar para intercambiar ideas ¡No lo dudes!** ​👉🏻​   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iván-fernández-luperena-a58712a7) 
+**Si quieres saber más sobre mi** ​👉🏻​   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iván-fernández-luperena-a58712a7) 
 
 # 👨‍🎓​ Educación
 
